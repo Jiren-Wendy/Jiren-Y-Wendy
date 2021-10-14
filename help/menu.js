@@ -124,21 +124,9 @@ exports.help = (prefix,pushname) => {
 ☠︎︎ *${prefix}notify* _(txt)_
 ☠︎︎ *${prefix}hidetag*
 └──────────────
-
-≡ *MENU OWNER* <♔>
-┌───⊷ *OWNER* ⊶
-▢ *${prefix}Actualizar*
-▢ *${prefix}privado*
-▢ *${prefix}publico*
-▢ *${prefix}setprefix*
-▢ *${prefix}ban*
-▢ *${prefix}unban*
-▢ *${prefix}clearchat*
-▢ *${prefix}listagp*
-▢ *${prefix}informes*
-▢ *${prefix}solicitudes*
-▢ *${prefix}clonar*
-└──────────────
+*Eres la manera que tiene el mundo de decirme y demostrarme lo bonita que es la vida*
+_*TE AMO WENDY❤️*_
+*BY:〲⎠⎠ɪʀᴇɴ〴᭄ Y🌹⃢⃟ꦼW҉𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽⁩*
 `
 	
 	} 
