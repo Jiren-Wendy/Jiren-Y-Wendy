@@ -5,7 +5,6 @@ exports.help = (prefix,pushname) => {
 ┌──────────────
 ❐ *${prefix}changelog*
 ❐ *${prefix}reglas*
-❐ *${prefix}creador*
 ❐ *${prefix}info*
 ❐ *${prefix}bot* _(simsimi)_
 ❐ *${prefix}report*
